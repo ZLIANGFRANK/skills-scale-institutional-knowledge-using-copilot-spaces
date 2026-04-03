@@ -12,6 +12,7 @@ This README provides an overview of the project management processes used by Oct
 - [Release and Deployment](octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [RACI Matrix and Contact Guide](octoacme-raci-matrix.md)
 
 ## Process Summary
 
@@ -28,6 +29,11 @@ Day-to-day execution is organized on a project board (Backlog → Ready → In P
 | **Developers** | Design, build, and test features; participate in reviews, estimation, and technical risk mitigation. |
 | **QA / Testing** | Validates quality against acceptance criteria and the Definition of Done. |
 | **Stakeholders** | Provide input, approvals, and business context. |
+| **Release Manager** | Owns the release calendar, coordinates release readiness, and manages deployment and rollback. |
+| **Stakeholder Liaison** | Bridges stakeholders and the delivery team; gathers requirements and communicates project status. |
+| **Compliance Officer** | Ensures alignment with organizational policies and regulatory requirements across the project lifecycle. |
+| **QA Lead / Test Lead** | Defines the test strategy, coordinates testing efforts, and owns quality sign-off before each release. |
+| **Technical Lead / Architect** | Guides technical direction, makes architectural decisions, and mentors the development team. |
 
 ## Communication & Cadence
 

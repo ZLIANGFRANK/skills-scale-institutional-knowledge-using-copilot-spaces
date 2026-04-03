@@ -19,6 +19,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Release Manager: owns the release calendar, coordinates release readiness, and manages deployment.
+- Stakeholder Liaison: bridges stakeholders and the delivery team; gathers requirements and communicates project status.
+- Compliance Officer: ensures alignment with organizational policies and regulatory requirements.
+- QA Lead / Test Lead: defines the test strategy and owns quality sign-off.
+- Technical Lead / Architect: guides technical direction and architectural decisions.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +49,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- See [Roles and Personas](octoacme-roles-and-personas.md) for full role definitions.
+- See [RACI Matrix and Contact Guide](octoacme-raci-matrix.md) to identify ownership and who to contact for each activity.
